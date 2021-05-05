@@ -1,0 +1,1024 @@
+Mono path[0] = 'D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.6140
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.197 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.888100 ms
+RimWorld 1.2.2900 rev837
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A539010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A33FC90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A44D030.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A459A40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A6A6030.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A6F5850.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A489290.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A48B8A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A81AE20.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A82A630.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A4988D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A862650.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A870C60.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A89EA90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A8F96A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A9020D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A90D4F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A928510.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CB17AC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A940120.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CBEF100.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CBFD710.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A946D40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CBFF920.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CC04D40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CC64160.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CCB4780.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CD561B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CD8B3E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CDFA020.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CDFE030.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CE10C60.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CE1E870.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CE53F00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0CF23B40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D02E770.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA033855F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D256C30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA033B5820.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D2CF010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA033CEA30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D2D8230.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA033D1C40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D2FF650.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D303A70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D3C2090.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D3C5CA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D3CD0C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D3F82F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D4B7B10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D5556E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D562100.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D613F90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D63CFA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D69B010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D582860.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D776460.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D7E44A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D80B6E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D816500.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D818110.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D81AB20.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A257520.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D823D50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A33E880.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D8EF1A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D9231C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D9289F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D9DC620.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DAC0E90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0D9E6840.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A3410A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DA00580.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DA04F90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DEFF130.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DA09DC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DFE4780.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DFEAD90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0DFECBA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E0273D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A254D10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E0E9800.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E0EF620.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E1AD650.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E1AE860.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E1D3AD0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E2C6E30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E2CBE40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E2CDA50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E2F0670.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E2FE4A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E3044B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E320CE0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E325AF0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E1EDBA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E3DC720.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E3E7740.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E1EBB90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E4BDBB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E4C11C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E4CA7E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E635440.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E72A490.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E7FD0D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E8B18F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E8D3310.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E8D8320.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E8E1740.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E8E7160.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A3438C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E9A95B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E9B91F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E9CA210.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E9D1A40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E9E2C90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A33AC50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E9F2EB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0E9FC4D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EA2D550.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EA31370.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EA52FB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EB0A1D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0A259D30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EBD8000.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EBF9E20.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EA1D5F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EC3EA70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA030D7440.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EC41080.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EC4DAB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EC510C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EC57ED0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EC596E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EC5A8F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EA181D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0ED37320.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0ED46140.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0ED7AB90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0ED849B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0ED877D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0ED88FE0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EDB5A10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EDD8E20.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EDDC640.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EDE2A50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EDE9060.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EDEAC70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EE10080.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EE53CA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EE5DEC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EE5F0D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EE87F10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EEB1940.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EEB6750.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EECC780.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EED9DA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EEE97C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EF103E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EFCA800.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EFD1220.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EFF9C50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0EFFCC60.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F0CB280.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F183EA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F24E2C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F288AE0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F296D10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F29B120.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F2C9740.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F3D3E30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F492E50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F55C270.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F58EE80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F59FAA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F5AA8C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F5B76E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F5BACF0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F5DB500.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F5EB120.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0F6F0EB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA0FB7E0D0.dll
+[RuntimeGC] Mod settings loaded.
+[HugsLib] version 8.0.1
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001FA101C6140.dll
+[HugsLib] early-initializing AllowTool
+[VanillaAchievementsExpanded] Removing duplicate Def Types.
+RimUniverse: Loaded successfully
+[Biomes! Core v2.0.0-beta] Initialized
+Dubs Bad Hygiene 2.9.2035
+Rimefeller 1.2.1012
+DependencyChecker!
+Initialized OmniCoreDrill patches
+<color=cyan>Patched game for in-game wiki. Inspector button is enabled</color>
+<color=cyan>Finished loading in-game wiki mod: Version 1.5.0</color>
+Hello, world!
+Added hook.
+Patched 8 methods.
+[MadSkills]: settings initialized, multiplier is 0.5, tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is not altered.
+[MadSkills]: settings initialized, multiplier is 0.5, tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is not altered.
+[MadSkills]: settings initialized, multiplier is 0.5, tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is not altered.
+DubsPaintShop 1.1.562
+DubsMintMenus v1.3.823
+Dubs Mint Minimap 1.3.754
+Running incremental garbage collection with time slice of 3000000 nanoseconds
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Fertile Fields
+LWM Deep Storage: activated compatibility patch for Sparkling Worlds
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+XML error: Duplicate XML node name designatorDropdown in this XML block: <TerrainDef ParentName="FloorBase"><defName>Concrete</defName><label>concrete</label><description>Rough concrete. It is cheap and quick to build, but is also quite ugly.</description><texturePath>Terrain/Surfaces/Concrete</texturePath><edgeType>Hard</edgeType><renderPrecedence>70</renderPrecedence><statBases><Beauty>-1</Beauty><WorkToBuild>100</WorkToBuild></statBases><costList><VMEu_RockPowder>2</VMEu_RockPowder></costList><designationHotKey>Misc6</designationHotKey><researchPrerequisites><li>Stonecutting</li></researchPrerequisites><designatorDropdown>VMEu_RoughConcreteDropDownMenu</designatorDropdown><designatorDropdown>MAO_Floor_Concrete</designatorDropdown></TerrainDef>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+XML error: Duplicate XML node name designatorDropdown in this XML block: <TerrainDef ParentName="FloorBase"><defName>Concrete</defName><label>concrete</label><description>Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly.</description><texturePath>Terrain/Surfaces/Concrete</texturePath><edgeType>Hard</edgeType><renderPrecedence>70</renderPrecedence><statBases><WorkToBuild>100</WorkToBuild><Beauty>-1</Beauty></statBases><costList><VMEu_RockPowder>2</VMEu_RockPowder></costList><designationHotKey>Misc6</designationHotKey><researchPrerequisites><li>Stonecutting</li></researchPrerequisites><designatorDropdown>VMEu_RoughConcreteDropDownMenu</designatorDropdown><designatorDropdown>MAO_Floor_Concrete</designatorDropdown></TerrainDef>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 3.6 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 0.25 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 0.25 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 0.50 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 0.50 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 20.5 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[MadSkills]: restored behavior of Great Memory trait.
+Key binding conflict: Dev_ChangeSelectedDebugAction and MainTab_Architect are both bound to Tab.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+d3d11: failed to create 2D texture id=4687 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=4687 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+d3d11: failed to create 2D texture id=4735 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=4735 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+d3d11: failed to create 2D texture id=9635 width=15 height=15 mips=5 dxgifmt=28 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=9635 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+Translation data for language English has 222 errors. Generate translation report for more info.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Alien race successfully completed 137 patches with harmony.
+Mixed Stone Blocks loaded and patched.
+Generating FactionColor Patches
+[Biomes! Islands v2.0.0-beta] Initialized
+Androids: Fixing surgery recipes for Droids.
+Androids: Fixing belts whitelist for AlienRace.ThingDef_AlienRace with defName='ChjBattleDroid'.
+Dubs Rimkit 1.5.1522
+[OpenTheWindows] Expanded Roofing detected! Integrating...
+[OpenTheWindows] Landscape beautification mod detected! Integrating...
+[OpenTheWindows] Better Pawn Control detected! Integrating...
+[OpenTheWindows] Giddy-up! detected! Adapting...
+MendingChangeDresserPatch Harmony Patches:
+  Postfix:
+    WorkGiver_DoBill.TryFindBestBillIngredients - Priority Last
+Loaded content.
+<color=cyan>Wiki mod is installed correctly, full API enabled.</color>
+<color=cyan>A new wiki was registered for mod 'Antimatter Annihilation'.</color>
+ExpandedRoofing: generating dynamic defs
+AdjustableTradeShips Harmony Patches:
+  Prefix:
+    Game.InitNewGame
+  Postfix:
+    Storyteller.Notify_DefChanged
+[ShowDrafteesWeapon] Initialized
+[RimHUD v1.7.0] Initialized
+[CMColorCodedMoodBar] CMColorCodedMoodBar initialized
+Patching Madeline.ModMismatchWindow
+[ModMetaDataCleaner] Removed 304 Metadata and cleaned 255 PreviewImage.
+Removed: [O21] Outer Rim Galaxies [DevBuild], District 9 Weapons Pack, GeneticRim Alpha Animals Patch, More Vanilla Biomes, [O21] Toolbox, MorrowRim, Smart Medicine, Mortar Accuracy, [Obsolete] Mercenaries For Me, Monster Hunter RimWorld, VGP Vegetable Garden, VGP Garden Gourmet, Forsakens, RimWorld - Witcher Monster Hunt, Empire, Replace Stuff, Simply More Bridges (Continued), [RF] Concrete (Continued), [K]Extra Stone, [K]Extra Stone(w/ Cupro's Textures), Vanilla Factions Expanded - Settlers, PsiTech, Moyo-From the depth, Ultratech: Altered Carbon, [FSF] Filth Vanishes With Rain And Time, Aquarium (Continued), VGP Garden Drinks UF, Rimatomics, [O21] Forgotten Realms, Vanilla Christmas Expanded (Continued), Weapons from the Vault, Erin's Hairstyles - Redux, [RF] Fishing-ReWork, Ancient Eastern Armory, More Archotech Garbage Reupload, Insects have chitin, Gun Nut - Winchester M97 "Trench Gun", Vanilla Social Interactions Expanded, VFE - Mechanoids : Tab, VFE - Mechanoids : Drones, Gun Nut - Soviet SMGs, RimCookie - Aesthetic Materials, Save Our Ship 2 - Space Gear, Vanilla Weapons Expanded - Non-Lethal, Vanilla Storytellers Expanded - Neron Neolithic, Vanilla Storytellers Expanded - Maynard Medieval, Vanilla Storytellers Expanded - Diego Industrial, Vanilla Weapons Expanded - Frontier, Vanilla Weapons Expanded - Tribal, Grains and Brewing, Vanilla Storytellers Expanded - Oskar Obnoxious, What the hack - A little expansion, Outdoor Lighting, [Vanilla] Assorted Arms, Refined Floors, The Joris Experience, Vanilla Apparel Expanded, Vanilla Textures Expanded - Genetic Rim, Nexomon, Into the Wild: Caveworld Flora Unleashed, WM Smarter food selection, RimCities - Citadel Update, RimCore, [RH2] Rimdeed® - Pawn Recruitment, Fences And Floors (Continued), ResearchPal - Forked, FROG Suit Set, Pawnmorpher, Graphics Settings+, TiberiumRim, Joint Battles, Pawnmorpher Demuzzled, Deep Storage Plus, Designator Shapes, Synthetic Animals, Zoological Orbital Traders, GlitterNet, Alpha Biomes, Diseases+, Mechanoid+, Project Fortuna Weapon Pack, [HLX] Ultratech: Altered Carbon - Armoury, Vanilla Weapons Expanded - Makeshift, VFE - Mechanoids : Prison control droid, VGP Three Sisters Plants, Interaction Bubbles, Crystal race, [RWY]Dragon's Descent: Void Dwellers, Genetic Rim, Kit's Brazilian Crops, Prostheses+, High quality textures, Psionic+, [RF] Fishing-ReWork Seafood and Sushi Addon, Categorized Crafting Bills, Mechanoid Master Blaster (Continued), Grazing Lands, [KV] Weapon Storage, [O21] Dragons Not Included, Trading Control, Insectoids Evolved, Kurin_HAR_Edition_zh, Vanilla Weapons Expanded - Heavy - Reloading Patch, Extended Woodworking, Rim War, Dubs Apparel Tweaks, A Dog Said... Animal Prosthetics, Save Our Ship 2 - Traitors Beyond Counting Pack, Fallout New Vegas - Elite Riot Gear, World Map Beautification Project - for Alpha Biomes, More Sculpture, Jobs of Opportunity (While You're Up), Shields, Shields. SHIELDS!, Ore Yields (Continued), Search and Destroy, Vanilla Factions Expanded - Medieval, Advanced Moisture Pump, [Kit] Graze up, Power++, VGP More Veggies, Prostheses+ (Faction Addon), Medicines+, Vanometric Cell Combining, CyberNet, Android tiers, [Ry]Rimcraft Animals, [Ry]Rimcraft Metals, [Ry]Rimcraft, Xeva Faction, Materials+, More Vanilla Turrets 1.1, VFEM Stone Patch Pack, Tillable Terrains [VPE Patch], [WD] Partially-Passable Wind Turbines, Save Our Ship 2, Vanilla Storytellers Expanded - Igor Invader, Alien Vs Predator, [WD] Better Cannons, 21st Century Arsenal (Continued), [O21] Hogmanay, [O21] Fallout Armoury, Dead Dragon Scales, Work Tab, Medical Tab, Blueprints, Animal Tab, Colony Manager, Research Tree, Argón Christmas, [ZEN] Dropdown Menus Expanded Collection, Animal Patches, Vanilla Storytellers Expanded - Perry Persistent, Vanilla Storytellers Expanded - Empress Evil, Vanilla Storytellers Expanded - Freya Fierce, Project Fortuna Base/ Vanilla Retexture and rename, [ZEN] Helixien Gas Architect Tab, Prepare Landing, Sparkling Worlds Addon - More Events - Standalone Addon, Glass+Lights, Tabletop Trove - Additional Joy Objects and Decor, DocWorld, Spartan Foundry Color Patch, Dragon's Descent, [O21] Pokemon Rim, [O21] Extended Hair, [RF] Advanced Bridges Continued [1.0][1.1][1.2], Mechanoid Bench, [O21] HD Pawns, [HLX] ReGrowth - Vanilla Plant Density Patch, Better Survival Meals, Greenworld, RimPlas (Continued), [JDS] The Forge - Anvil, [JDS] The Forge - NCR Armory, [JDS] The Forge - Caesar Legion Armory, USCM - Core, USCM - Turret, USCM - Xenomorphs Faction, More Trade Ships, Invisible Conduit, RimOverhaul, Armor Core, Darkest hour (Night Only), Raiderpedes(continued), Raider Emus (Continued), D9 Framework, Dinosauria, RimTest - Automated Testing Framework, Autocleaner, Herd Migration Revival(revived), Dubs Break Mod, Alpha Ships, Highway Restoration, VGP Garden Fabrics, VGP Garden Fabrics Simplified, GreenRim, The Brotherhood Compendium, Mechanoids Extraordinaire, [FGO]Fate Grand Order - Styles Apparel Pack, Deads dense Biomes, GeneticRim Megafauna Patch, GeneticRim Dinosauria Patch, GeneticRim Cosmic Horrors Patch, Prosthetic Combat Framework, RoofBomb, VGP Garden Tools, Labels on Floor, ShowModDesignators, FE3H Accessories, FE3H Apparel, [Beta]Anime Hair, Retextured Interaction Spots Project, Mokan Hair, Vanilla Textures Expanded - Mod Expansion, Vanilla Style Textures for VGP - Garden Fabrics, Xeva FB weapon, Go Explore!, Pawnmorpher: Insectoids, More Mechanoids, FFGermanShepherd, Project Itzal - Main Pack, Xeva Faction -XFB with Vanilla Body Patch, Ghost Gear (Continued), Minimal Light Control, Conduit Deconstruct, Elite Archotech, Expanded Prosthetics and Organ Engineering, Royal Thrumbos, MiningCo. Spaceship, Real Ruins, Androids Expanded, Floored [1.0+], Caution Tiles [1.0+], Avoid Friendly Fire, CCP's Stone Tweaks, CCP's Stone Tweaks Vanilla, RT's Weapon Pack Reloaded (1.1), LED Lights, Hunt for Me, [旋风绘卷]Andery-Tech, [RWY]SRTS Expanded: The Crimson Fleet, Advanced Shield Belts, Room Food, [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons, Rimsenal - Storyteller pack, [KV] Configurable Maps, [T] MoreBedsVanilla, ResearchPal, [WD] Soil Contrast, Sparkling Worlds Addon - Mech Serum Crafting - Standalone Addon, [KV] Impassable Map Maker, Sparkling Worlds - Modular Core - Reduced features, Sparkling Worlds Addon - Blue Moon Corp - Standalone Addon, Selectable Sculpture Graphic, Kill For Me, Raids For Me, InfestationBait, Modlist, Giddy-up! Mechanoids, RunAndGun, Remote Tech, Giddy-Up! Add-on: Animal Saddles, Pack Mules Extended - Dinosauria, Pack Mules Extended, Realistic Rooms, [WD] Simple Concrete, Zen Garden, Forsakens: Fauna, StarWars Animal Collection, Natural Lakes, Parallel Power Grid (Parallel Conduits), Better Infestations 1.2, Fuse Plus, Floor Lights, Polarisbloc - Security Force, Contractors Arsenal, Incident Tweaker, Trader ships, Dismar's Tall Grass, Deep Scanner Settings, Rimtroid, Rimefeller Neceros Patch, RimNauts, Royalty Tweaks, [sd] Chicken Nest (Continued), [sd] Spaceship (Continued), VFE Farming - VGP Garden Tools, Xeva's Rimhair, More Crashed Ship Parts, Natural Paths, Vanilla Style Textures for Vegetable Garden, Roads of the Rim, Doors Expanded, JecsTools, EvolvedOrgansRedux, [WD] Expanded Artillery, [1.1] MegaCorp, Call of Cthulhu - Cosmic Horrors, Spatial Priorities, Xen's Taming Fixer, [XND] Nocturnal Animals, Bonsaiplus, RIMMSLoadUp, Hediff Resource Framework
+Cleaned: Rimsenal - Enhanced Vanilla Pack, Rimsenal - Core, Rimsenal - Federation Faction Pack, Rimsenal - Rimhair, Rimsenal - Feral Faction Pack, Alpha Animals, Humanoid Alien Races 2.0, Vanilla Expanded Framework, MendAndRecycle, Gun Nut - AAC Honey Badger, Hospitality, [T] MoreFloors, Dubs Mint Menus, Dubs Bad Hygiene, Simple sidearms, Thrumbo Extension, Vanilla Events Expanded, Expanded Prosthetics and Organ Engineering - Forked, Vanilla Weapons Expanded - Laser, CM Color Coded Mood Bar [1.1+], [JPT] Open The Windows, LWM's Deep Storage, EPOE-Forked: Royalty DLC expansion, Jewelry, Vanilla Furniture Expanded - Power, Medical System Expansion 2, Mixed Stone Blocks, ReGrowth: Boreal Forest Expansion, Vanilla Factions Expanded - Insectoids, Vanilla Factions Expanded - Vikings, Gun Nut - Chapter #2, Erin's Mountain Animals, Expanded Materials - Metals, Vanilla Animals Expanded — Temperate Forest, ReGrowth: Core, EPOE-Forked: Alien expansion + patcher, Vanilla Factions Expanded - Mechanoids, Anima Animals, More Utility Packs, Gun Nut - KRISS Vector, Gun Nut - Ruger Mini, Gun Nut - Colt Anaconda, Vanilla Furniture Expanded - Props and Decor, Flower Box (VFE - Farming), Expanded Materials - Plastics, Gun Nut - SIG Sauer NGSW, ReGrowth: Desert Expansion, Vanilla Fishing Expanded - Fishing Treasures AddOn, RPG Style Inventory, Civilization Beyond Earth Armor Sets, [SYR] Stone Rebalance, [SYR] Universal Fermenter, Rimefeller, Kit's VFE Weapons, Vanilla Traits Expanded, Fertile Fields Bulk Kibble, [KV] Adjustable Trade Ships, RuntimeGC, Race to the Rim, MorrowRim - Adamantium, Gun Nut - "Item 62" Gauss Rifle, Vanilla Weapons Expanded - Heavy Weapons, Gun Nut - Community Pack, Cybernetic Organism and Neural Network, Gun Nut - Chapter #1, [LTO] Colony Groups, Erin's Japanese Furniture, Gun Nut - KSG Shotgun, RimHUD, Dubs Rimkit, What the hack?!, Zorg ZF1, Gastronomy, Mechanized Armor Set, Storyteller hair, Vanilla Armour Expanded, MorrowRim - Glass and Ebony, [KV] Show Hair With Hats or Hide All Hats, Expanded Materials Add-on - Ammunition Module, Vanilla Furniture Expanded - Farming, Vanilla Furniture Expanded - Security, [HLX] ReGrowth - Wasteland, Trait Rarity Colors, Persona Bond Forge, Persona Coilguns, Dubs Mint Minimap, Vanilla Weapons Expanded - Coilguns, Fertile Fields [1.1], More Linkables, Magical Menagerie, Vanilla Brewing Expanded, Apex: Rimworld Legends VWE Patch, [KV] Consolidated Traits, Additional Traits (Heroes + Gods Optional), Quest Reward Rebalance, Androids Expanded (Continued), Vanilla Cooking Expanded, Biomes! Islands, Biomes! Core, Antimatter Annihilation, Cyber Fauna 1.2, Vanilla Animals Expanded — Endangered, [KV] RimFridge, Vanilla Furniture Expanded, Vanilla Weapons Expanded, Vanilla Furniture Expanded - Production, Vanilla Animals Expanded — Tundra, Vanilla Weapons Expanded - Quickdraw, Vanilla Furniture Expanded - Art, Vanilla Textures Expanded, Vanilla Furniture Expanded - Spacer Module, VFME - Caravan Packs!, VFE - Mechanoids : Unoffical Add-On, RimUniverse - Biomes, Vanilla Fishing Expanded, Psysword, Hive Rifle, Nature is Beautiful [1.0+], SRTS Expanded retexture, Elite Bionics Framework, [WD] Materials For Coolers, [WD] Materials For Vents, Dubs Performance Analyzer, Giddy-up! Caravan, Vanilla Achievements Expanded, World Map Beautification Project, Mod Manager, [HLX] ReGrowth - Tundra Expansion, Simple Search Bar, [HLX] ReGrowth - Temperate Forest Expansion, Apex: Rimworld Legends, Sparkling Worlds - Full Mod, [JPT] Fertile Fields Makeover, Rimworld: Spartan Foundry, Allow Tool, [O21] Clutter Structures, [HLX] ReGrowth - Mutated Animals Pack, Vanilla Expanded - Royalty Patches, [HLX] ReGrowth - Cold Bog Expansion, In-game wiki, Salted Meat, [HLX] ReGrowth - Extinct Animals Pack, [HLX] Rimworld: UNSC Armoury, Rimsenal - Security pack, [KV] Change Dresser, Better Pawn Control, Giddy-up! Core, More Planning, [JDS] Simple Storage, [JDS] Exiled Dawn, Exotic Arsenal, VFME - Simple Tofu!, Altherian Export - Elemental Weaponry, [JDS] Simple Resource Crate, [JDS] Simple Switch, [KYD] Baked Bread, [KYD] Zucchini!, [HLX] ReGrowth - Volcanic Ice Sheet - Beta, Vanilla Brewing Expanded - Coffees and Teas, [KYD] More Pawns Get Prosthetics!, Muffalant (patched), Megafauna, Metal Don't Burn, Animal Medical Bed, Vanilla Plants Expanded : All Trees All Biomes Optional Patch, HALO: Rimworld Psychic Pulse Armory (Continued), Fantasy Metals Reforged, Sometimes Raids Go Wrong, Various Space Ship Chunk (Continued), Androids, FE3H Blue Lions Hair, Plasma Lance, Room Size Tolerance, RimUniverse - Core, Vanilla Plants Expanded, Vanilla Cooking Expanded - Stews, Vanilla Books Expanded, FE3H Black Eagles Hair, FE3H Golden Deer Hair, FE3H Ashen Wolves Hair, FE3H Misc Hair, [KV] More Trait Slots, ED-Laser-Drill, OgreStack, ED-Core, [SYR] Set Up Camp, Vanilla Cooking Expanded - Sushi, [SS]Lovely Hair Style, [KV] Faction Control, Vanilla Hair Expanded, Animal Variety Coats, Roo's Dreadlock Hairstyles, Roo's Royalty Hairstyles, Heat Map, EdB Prepare Carefully, TD Enhancement Pack, Share The Load, [WD] Small Solar Panels, Mad Skills, HugsLib, [SYR] Metallic Batteries, Map Reroll, [KV] Trading Spot, Halo UNSC Weapon Pack, [SYR] Doormats, [SYR] Terrain, RT Solar Flare Shield, RT Fuse, [SYR] Glowing Healroot, Giddy-up! Battle Mounts, Defensive Positions, Startup impact, Gradient Hair, Show Draftees Weapon, Vanilla Furniture Expanded - Medical Module, Better Vanilla Masking, Vanilla Animals Expanded — Cats and Dogs, [WD] Expanded Floors, [WD] Expanded Floors (Dropdown Menu), Vanilla Animals Expanded — Arid Shrubland, SRTS Expanded, [WD] Reinforced Doors, Better ModMismatch Window, Vanilla Animals Expanded — Tropical Swamp, Vanilla Animals Expanded — Tropical Rainforest, Vanilla Animals Expanded — Boreal Forest, Vanilla Animals Expanded — Ice Sheet, Vanilla Animals Expanded — Australia, Vanilla Animals Expanded — Desert, Vanilla Animals Expanded — Extreme Desert, Progress Renderer, Utility Columns, DermalRegenerator, Wall Light, Antigrain, Bad Can Be Good, [JDS] Simple Storage - Refrigeration, SRTS Expanded - Old Genesis, Vanilla Hair Expanded - Beards, Vanilla Weapons Expanded - Grenades, [KV] Change Mirror, Corragium, Halo Forerunnner Weapons Mod, Vanilla Plants Expanded - Succulents, Dub's Paint Shop, Trade Ships Drop Spot, Harmony, Gemstones, Expanded Roofing, HALO: Rimworld Heretic Mechanoids, Omni Core Drill, Rimsenal - Unofficial Factions, Rimefeller Neceros Patch by Phyros, Royalty, Core
+[RuntimeGC] Detour completed: MuteGC
+FactionDef [WMH_Monsters] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [VFEM_UnknownKingdom] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [VFEM_UnknownKingdomHostile] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [VFEM_KingdomCivil] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [VFEM_KingdomRough] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [VFEM_KingdomSavage] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [SettlerCivil] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [SettlerRough] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [SettlerSavage] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [XEFDiamondBone] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [XEFFlameLegion] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [XEFJaegar] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [XEFStarExplorer] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [XEFXEO] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FactionDef [PTPsionic] is not defined in any loaded mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+found Stloc_1
+[HugsLib] initializing BetterPawnControl, DefensivePositions, PeteTimesSix.SimpleSidearms, Hospitality, Gastronomy, V1024-EBF, WhatTheHack, MSE2, GiddyUpCore, BattleMounts, GiddyUpCaravan, LWM_DeepStorage, com.github.alandariva.moreplanning, MapReroll, HeatMap
+Injecting guest beds into the following facilities: EndTable, Dresser, VitalsMonitor, Table_LightEndTable, Table_Wardrobe, Table_RoyalEndTable, Table_RoyalDresser, Facility_VitalsCentre, Facility_IVDrip, Table_IlluminatedEndTable, Table_IlluminatedDresser, SurgicalLamp, SurgicalInstruments, ChangeDresser, ChangeMirror
+Created guest beds for the following beds: SleepingSpot, DoubleSleepingSpot, Bed, DoubleBed, RoyalBed, HospitalBed, Bedroll, BedrollDouble, GlitterworldHospitalBedSW, VFEV_FurBed, VFEV_DoubleFurBed, Bed_StoneSlab, Bed_Simple, Bed_Ergonomic, Bed_DoubleErgonomic, Bed_Kingsize, Bed_OperatingTable, Bed_CryptoBed, Bed_AdvBed, Bed_AdvDoubleBed, Erin_FutonA, Erin_FutonB, Erin_DoubleFutonA, Erin_DoubleFutonB
+[MSE2] Some prostheses that have not been patched were detected in mods: Cybernetic Organism and Neural Network, Vanilla Factions Expanded - Insectoids, What the hack?!, Cyber Fauna 1.2, . They will default to vanilla behaviour.
+
+<Trunken_hediff_ElasticAchilles> from "Cybernetic Organism and Neural Network": toe
+<VFEI_InsectoidLeg> from "Vanilla Factions Expanded - Insectoids": femur, tibia, foot, toe
+<VFEI_InsectoidArm> from "Vanilla Factions Expanded - Insectoids": clavicle, arm, humerus, radius, hand, finger
+<VFEI_PneumaticClaw> from "Vanilla Factions Expanded - Insectoids": finger
+<WTH_RepairArm> from "What the hack?!": arm, hand, finger, blade, shield
+<CFSimpleAniPawHed> from "Cyber Fauna 1.2": left pincer, right pincer, paw, left pincer, right pincer, hoof, front claw, rear claw, paw, foot, femur, tibia, toe, claw, arm, humerus, radius, hand, finger, clavicle
+<CFSimpleAniJawHed> from "Cyber Fauna 1.2": tusk, fangs, nose
+<CFBionicAniPawHed> from "Cyber Fauna 1.2": left pincer, right pincer, paw, left pincer, right pincer, hoof, front claw, rear claw, paw, foot, femur, tibia, toe, claw, arm, humerus, radius, hand, finger, clavicle
+<CFBionicAniJawHed> from "Cyber Fauna 1.2": tusk, fangs, nose
+<CFArchoAniPawHed> from "Cyber Fauna 1.2": left pincer, right pincer, paw, left pincer, right pincer, hoof, front claw, rear claw, paw, foot, femur, tibia, toe, claw, arm, humerus, radius, hand, finger, clavicle
+<CFArchoAniJawHed> from "Cyber Fauna 1.2": tusk, fangs, nose
+<IronArm> from "???": clavicle, arm, humerus, radius, hand, finger
+<IronHookHand> from "???": finger
+
+[MSE2] Ignoring unsupported sub-parts:
+SimpleProstheticArm: Clavicle
+SimpleProstheticForearm: Humerus, Radius
+SimpleProstheticLeg: Femur, Tibia
+
+[HugsLib][ERR] GiddyUpCore caused an exception during OnDefsLoaded: System.ArgumentException: An item with the same key has already been added. Key: Snow_leopard
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at (wrapper dynamic-method) RimWorld.BiomeDef.RimWorld.BiomeDef.CommonalityOfAnimal_Patch1(RimWorld.BiomeDef,Verse.PawnKindDef)
+  at RimWorld.BiomeDef+<get_AllWildAnimals>d__48.MoveNext () [0x00046] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at GiddyUpCore.Base.DefsLoaded () [0x003b5] in <25a83431484f4001bf3aa4679e6b276f>:0 
+  at HugsLib.HugsLibController.OnDefsLoaded () [0x0001a] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[MapReroll] Applied Prepare Carefully compatibility layer. Note: removing Prepare Carefully after starting a new game will now cause errors, but these can be safely ignored.
+[OgreStack]: Modify Stack Sizes Complete
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.408600 ms
+
+Unloading 280 unused Assets to reduce memory usage. Loaded Objects now: 35891.
+Total: 492.157600 ms (FindLiveObjects: 2.488000 ms CreateObjectMapping: 3.407800 ms MarkObjects: 485.870000 ms  DeleteObjects: 0.391600 ms)
+
+Loading game from file Phyrexia II - 1 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - user19990313.RuntimeGC
+  - Ludeon.RimWorld.Royalty
+  - automatic.startupimpact
+  - UnlimitedHugs.HugsLib
+  - smashphil.neceros.srtsexpanded
+  - neceros.srtsexpandedoldgenesis
+  - JGH.SRTSretexture
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - VanillaExpanded.VTEXE
+  - jamaicancastle.RF.fertilefields
+  - JPT.FertileFieldsMakeover
+  - malkav73.kibble
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VCEF
+  - ReGrowth.BOTR.Core
+  - Balthoraz.RimUniverse.CoreModule
+  - BiomesTeam.BiomesCore
+  - erdelf.HumanoidAlienRaces
+  - rimsenal.core
+  - rimsenal.EVP
+  - Rimsenal.Unofficial.Factions
+  - Uuugggg.TDPack
+  - UnlimitedHugs.AllowTool
+  - VouLT.BetterPawnControl
+  - UnlimitedHugs.DefensivePositions
+  - PeteTimesSix.SimpleSidearms
+  - neceros.badcanbegood
+  - neceros.roomsizetolerance
+  - DerekBickley.LTOColonyGroupsFinal
+  - Argon.VMEu
+  - Argon.VMEuAmmo
+  - Argon.VMEuP
+  - Dubwise.DubsBadHygiene
+  - Dubwise.Rimefeller
+  - necerosandphyros.rimefellernecerospatch
+  - Orion.Hospitality
+  - Orion.Gastronomy
+  - Telkir.TMods.MoreFloors
+  - Wemd.ExpandedFloors
+  - Wemd.ExpFloorsDropdownMenuAddon
+  - Albion.SparklingWorlds.Full
+  - marvinkosh.sometimesraidsgowrong
+  - itzal.cm
+  - SirMashedPotato.MorrowRim.GlassAndEbony
+  - SirMashedPotato.MorrowRim.Adamantium
+  - zylle.Gemstones
+  - nerdwonder.mixedblock
+  - vat.epoeforked
+  - vat.epoeforkedroyalty
+  - tarojun.epoeforked.alienexpansionpatcher
+  - kikohi.cybernetic
+  - V1024.EBFramework
+  - KYD.Prosthetics
+  - EdB.PrepareCarefully
+  - factioncontrol.kv.rw
+  - OskarPotocki.VFE.Insectoid
+  - OskarPotocki.VFE.Vikings
+  - OskarPotocki.VFE.Mechanoid
+  - JangoDsoul.ExiledDawn
+  - roolo.whatthehack
+  - sargoskar.racetotherim
+  - Odeum.WMBP
+  - ReGrowth.BOTR.Wasteland
+  - ReGrowth.BOTR.BorealForestExpansion
+  - ReGrowth.BOTR.ColdBogExpansion
+  - ReGrowth.BOTR.TemperateForestExpansion
+  - ReGrowth.BOTR.TundraExpansion
+  - ReGrowth.BOTR.VolcanicIceSheet
+  - ReGrowth.BOTR.DesertExpansion
+  - BiomesTeam.BiomesIslands
+  - zhrocks11.NatureIsBeautiful
+  - ChJees.Androids
+  - rielle.androidsexpanded
+  - ReGrowth.BOTR.ExtinctAnimalsPack
+  - ReGrowth.BOTR.WastelandFauna
+  - VanillaExpanded.VAEAS
+  - VanillaExpanded.VAEAU
+  - VanillaExpanded.VAEBF
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VAED
+  - VanillaExpanded.VAEED
+  - VanillaExpanded.VAEIS
+  - VanillaExpanded.VAETF
+  - VanillaExpanded.VAETR
+  - VanillaExpanded.VAETS
+  - VanillaExpanded.VAET
+  - VanillaExpanded.VAEEndAndExt
+  - Erin.Mountain
+  - xrushha.AnimaAnimals
+  - sarg.alphaanimals
+  - sarg.magicalmenagerie
+  - shakeyourbunny.MuffalantCore
+  - Daniledman.CyberFauna
+  - Balthoraz.RimUniverse.BiomesModule
+  - VFME.CaravanPacks
+  - MSE2.Core
+  - VanillaExpanded.VBooksE
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESecurity
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPropsandDecor
+  - neronix17.clutterstructures
+  - VanillaExpanded.VPlantsE
+  - be37.VPE.ATABP
+  - VanillaExpanded.VPlantsESucculents
+  - KYD.Zucchini
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookESushi
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VBrewECandT
+  - KYD.BakedBread
+  - Argon.SaltedMeat
+  - VFME.SimpleTofu
+  - VanillaExpanded.VARME
+  - HALO.RSF
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWEQ
+  - VanillaExpanded.VWEHW
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VanillaTraitsExpanded
+  - Gewen.AdditionalTraits
+  - consolidatedtraits.kv.rw
+  - moretraitslots.kv.rw
+  - CarnySenpai.TraitRarityColors
+  - APEX.ARL
+  - arlvwepatch.ratboys
+  - TheInfinityIQ.Halo.Forerunner
+  - HLX.RimworldUNSCArmoury
+  - TheInfinityIQ.Halo.UNSC
+  - Mlie.HaloRimworldPsychicPulseArmory
+  - Helixien.HereticMechanoids
+  - xedos.arsenalexotic
+  - xedos.plasmalance
+  - xedos.hiverifle
+  - chefboyjc.zorgzf1
+  - KIT.VFEWeapons
+  - xedos.psyblade
+  - SGC.moreutilitypacks
+  - leafzxg.ThrumboExtension
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyupcaravan
+  - Spino.Megafauna
+  - rimsenal.feral
+  - rimsenal.federation
+  - rimsenal.security
+  - zomuro.HCZCorpWeaponry
+  - Harkon.GunNut.Community
+  - Harkon.GunNut.Chapter2
+  - Harkon.GunNut.Chapter1
+  - Harkon.GunNut.KSGShotgun
+  - Harkon.GunNut.KRISSVector
+  - Harkon.GunNut.GaussRifle
+  - Harkon.GunNut.ColtAnaconda
+  - Harkon.GunNut.RugerMini
+  - Harkon.GunNut.SIGSauerNGSW
+  - Harkon.GunNut.AACHoneyBadger
+  - JangoDsoul.Mechanized
+  - JangoDsoul.TierArmor.Civil
+  - kikohi.jewelry
+  - showhair.kv.rw
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VHE.Beards
+  - rimsenal.hair
+  - Rooboid.Dreadlockhair
+  - Rooboid.Royalhair
+  - LingLuo.LovelyHairStyle
+  - MengDe.FE3H.AshenWolvesHair
+  - MengDe.FE3H.BlackEaglesHair
+  - MengDe.FE3H.BlueLionsHair
+  - MengDe.FE3H.GoldenDeerHair
+  - MengDe.FE3H.MiscHair
+  - sakama.StorytellerHair
+  - cucumpear.azrael.varietycoats
+  - Mlie.VariousSpaceShipChunk
+  - neceros.antigrain
+  - Dubwise.DubsRimkit
+  - Wemd.ReinforcedDoors
+  - DoctorVanGogh.MiningShaft
+  - neceros.animalmedicalbed
+  - ratys.rtfuse
+  - ratys.rtsolarflareshield
+  - Jaxxa.EnhancedDevelopment.Core
+  - Jaxxa.EnhancedDevelopment.LaserDrill
+  - rselbo.dermalregenerator.1.0.0
+  - 4loris4.MoreLinkables
+  - rimfridge.kv.rw
+  - LWM.DeepStorage
+  - JangoDsoul.SimpleStorage
+  - xedos.personabond
+  - hamster.personacoilguns
+  - JangoDsoul.SimpleStorage.Ref
+  - isorex.mechanoidsaddon
+  - JangoDsoul.SimpleResourceCrate
+  - Murmur.WallLight
+  - JPT.OpenTheWindows
+  - Erin.JapaneseFurniture
+  - Wemd.MaterialsForVents
+  - Wemd.MaterialsForCoolers
+  - smashphil.dropspot
+  - tradingspot.kv.rw
+  - JangoDsoul.SimpleSwitch
+  - Wemd.SmallSolarPanels
+  - changemirror.kv.rw
+  - changedresser.kv.rw
+  - notfood.MendAndRecycle
+  - nephlite.orbitaltradecolumn
+  - co.uk.epicguru.ingamewiki
+  - co.uk.epicguru.antimatterannihilation
+  - mercurydoll.fantasymetals
+  - syrchalis.doormats
+  - syrchalis.stonerebalance
+  - syrchalis.metallicbatteries
+  - syrchalis.universalfermenter
+  - wit.expandedroofing
+  - Crudbone.Flowerbox
+  - VanillaExpanded.VCEFAddon
+  - syrchalis.glowinghealroot
+  - syrchalis.setupcamp
+  - syrchalis.terrain
+  - Uuugggg.ShareTheLoad
+  - Owlchemist.BetterVanillaMasking
+  - Ogre.OgreStack
+  - adjustabletradeships.kv.rw
+  - automatic.gradienthair
+  - com.github.alandariva.moreplanning
+  - ratys.madskills
+  - neceros.metaldontburn
+  - SGC.quests
+  - UnlimitedHugs.MapReroll
+  - targhetti.ShowDrafteesWeapon
+  - Dubwise.DubsPaintShop
+  - Dubwise.DubsMintMenus
+  - gguake.ui.simplesearchbar
+  - falconne.HeatMap
+  - Jaxe.RimHUD
+  - Sandy.RPGStyleInventory
+  - CrashM.ColorCodedMoodBar.11
+  - dubwise.dubsmintminimap
+  - Dubwise.DubsPerformanceAnalyzer
+  - neptimus7.progressrenderer
+  - Madeline.ModMismatchFormatter
+  - fluffy.modmanager
+Vanilla Expanded - Settings loaded
+Exception registering RimWorld.Apparel Apparel_Strikesuit7382215 in loaded object directory with unique load ID Thing_Apparel_Strikesuit7382215: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_Strikesuit7382215
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Verb_Jump RimWorld.Verb_Jump(null) in loaded object directory with unique load ID Verb_Reloadable_Apparel_Strikesuit7382215_0: System.ArgumentException: An item with the same key has already been added. Key: Verb_Reloadable_Apparel_Strikesuit7382215_0
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel SGC_Apparel_Jetpack4716106 in loaded object directory with unique load ID Thing_SGC_Apparel_Jetpack4716106: System.ArgumentException: An item with the same key has already been added. Key: Thing_SGC_Apparel_Jetpack4716106
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Verb_Jump RimWorld.Verb_Jump(null) in loaded object directory with unique load ID Verb_Reloadable_SGC_Apparel_Jetpack4716106_0: System.ArgumentException: An item with the same key has already been added. Key: Verb_Reloadable_SGC_Apparel_Jetpack4716106_0
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_StrikesuitH7382218 in loaded object directory with unique load ID Thing_Apparel_StrikesuitH7382218: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_StrikesuitH7382218
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel VAE_Footwear_MarineBoots6592408 in loaded object directory with unique load ID Thing_VAE_Footwear_MarineBoots6592408: System.ArgumentException: An item with the same key has already been added. Key: Thing_VAE_Footwear_MarineBoots6592408
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel SGC_Apparel_Jetpack4716106 in loaded object directory with unique load ID Thing_SGC_Apparel_Jetpack4716106: System.ArgumentException: An item with the same key has already been added. Key: Thing_SGC_Apparel_Jetpack4716106
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Verb_Jump RimWorld.Verb_Jump(null) in loaded object directory with unique load ID Verb_Reloadable_SGC_Apparel_Jetpack4716106_0: System.ArgumentException: An item with the same key has already been added. Key: Verb_Reloadable_SGC_Apparel_Jetpack4716106_0
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel VAE_Handwear_MarineGloves6591586 in loaded object directory with unique load ID Thing_VAE_Handwear_MarineGloves6591586: System.ArgumentException: An item with the same key has already been added. Key: Thing_VAE_Handwear_MarineGloves6591586
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel SGC_Apparel_Jetpack4716106 in loaded object directory with unique load ID Thing_SGC_Apparel_Jetpack4716106: System.ArgumentException: An item with the same key has already been added. Key: Thing_SGC_Apparel_Jetpack4716106
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Verb_Jump RimWorld.Verb_Jump(null) in loaded object directory with unique load ID Verb_Reloadable_SGC_Apparel_Jetpack4716106_0: System.ArgumentException: An item with the same key has already been added. Key: Verb_Reloadable_SGC_Apparel_Jetpack4716106_0
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel VAE_Handwear_MarineGloves7195035 in loaded object directory with unique load ID Thing_VAE_Handwear_MarineGloves7195035: System.ArgumentException: An item with the same key has already been added. Key: Thing_VAE_Handwear_MarineGloves7195035
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmorHelmet5601549 in loaded object directory with unique load ID Thing_Apparel_PowerArmorHelmet5601549: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmorHelmet5601549
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmorHelmet6591652 in loaded object directory with unique load ID Thing_Apparel_PowerArmorHelmet6591652: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmorHelmet6591652
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmorHelmet5601549 in loaded object directory with unique load ID Thing_Apparel_PowerArmorHelmet5601549: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmorHelmet5601549
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering Dubs_Rimkit.Medkit MedicineBag1507671 in loaded object directory with unique load ID Thing_MedicineBag1507671: System.ArgumentException: An item with the same key has already been added. Key: Thing_MedicineBag1507671
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering Dubs_Rimkit.Medkit MedicineBag1507671 in loaded object directory with unique load ID Thing_MedicineBag1507671: System.ArgumentException: An item with the same key has already been added. Key: Thing_MedicineBag1507671
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering Dubs_Rimkit.Medkit MedicalKit2027385 in loaded object directory with unique load ID Thing_MedicalKit2027385: System.ArgumentException: An item with the same key has already been added. Key: Thing_MedicalKit2027385
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_StrikesuitH9079453 in loaded object directory with unique load ID Thing_Apparel_StrikesuitH9079453: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_StrikesuitH9079453
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_Strikesuit7837907 in loaded object directory with unique load ID Thing_Apparel_Strikesuit7837907: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_Strikesuit7837907
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Verb_Jump RimWorld.Verb_Jump(null) in loaded object directory with unique load ID Verb_Reloadable_Apparel_Strikesuit7837907_0: System.ArgumentException: An item with the same key has already been added. Key: Verb_Reloadable_Apparel_Strikesuit7837907_0
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel VAE_Handwear_MarineGloves7195252 in loaded object directory with unique load ID Thing_VAE_Handwear_MarineGloves7195252: System.ArgumentException: An item with the same key has already been added. Key: Thing_VAE_Handwear_MarineGloves7195252
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel VAE_Handwear_MarineGloves7195006 in loaded object directory with unique load ID Thing_VAE_Handwear_MarineGloves7195006: System.ArgumentException: An item with the same key has already been added. Key: Thing_VAE_Handwear_MarineGloves7195006
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_ArmorRecon7195172 in loaded object directory with unique load ID Thing_Apparel_ArmorRecon7195172: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_ArmorRecon7195172
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmor6592786 in loaded object directory with unique load ID Thing_Apparel_PowerArmor6592786: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmor6592786
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmor6592465 in loaded object directory with unique load ID Thing_Apparel_PowerArmor6592465: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmor6592465
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmor6591485 in loaded object directory with unique load ID Thing_Apparel_PowerArmor6591485: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmor6591485
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmor7828191 in loaded object directory with unique load ID Thing_Apparel_PowerArmor7828191: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmor7828191
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_ArmorHelmetRecon6592089 in loaded object directory with unique load ID Thing_Apparel_ArmorHelmetRecon6592089: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_ArmorHelmetRecon6592089
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_ArmorHelmetRecon6588731 in loaded object directory with unique load ID Thing_Apparel_ArmorHelmetRecon6588731: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_ArmorHelmetRecon6588731
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_ArmorHelmetRecon6592780 in loaded object directory with unique load ID Thing_Apparel_ArmorHelmetRecon6592780: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_ArmorHelmetRecon6592780
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_ArmorHelmetRecon7195076 in loaded object directory with unique load ID Thing_Apparel_ArmorHelmetRecon7195076: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_ArmorHelmetRecon7195076
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_ArmorHelmetRecon6592780 in loaded object directory with unique load ID Thing_Apparel_ArmorHelmetRecon6592780: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_ArmorHelmetRecon6592780
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_ArmorHelmetRecon7195076 in loaded object directory with unique load ID Thing_Apparel_ArmorHelmetRecon7195076: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_ArmorHelmetRecon7195076
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmorHelmet6591652 in loaded object directory with unique load ID Thing_Apparel_PowerArmorHelmet6591652: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmorHelmet6591652
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmorHelmet6592554 in loaded object directory with unique load ID Thing_Apparel_PowerArmorHelmet6592554: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmorHelmet6592554
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering RimWorld.Apparel Apparel_PowerArmorHelmet6592554 in loaded object directory with unique load ID Thing_Apparel_PowerArmorHelmet6592554: System.ArgumentException: An item with the same key has already been added. Key: Thing_Apparel_PowerArmorHelmet6592554
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Orbitabl Trader On/Off Cycle applied.
+autocleaner pathing to destroyed thing Filth_Trash11865924
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+JobDriver threw exception in initAction for pawn autocleaner driver=JobDriver_Wait (toilIndex=0) driver.job=(Wait (Job_25682599))
+System.NullReferenceException: Object reference not set to an instance of an object
+  at AllowTool.PartyHuntHandler.get_WorldSettings () [0x0000b] in <131ad912d0814ce38696f6ecf93156a4>:0 
+  at AllowTool.PartyHuntHandler.DoBehaviorForPawn (Verse.AI.JobDriver_Wait driver) [0x0001e] in <131ad912d0814ce38696f6ecf93156a4>:0 
+  at AllowTool.Patches.JobDriverWait_CheckForAutoAttack_Patch.DoPartyHunting (Verse.AI.JobDriver_Wait __instance) [0x00001] in <131ad912d0814ce38696f6ecf93156a4>:0 
+  at (wrapper dynamic-method) Verse.AI.JobDriver_Wait.Verse.AI.JobDriver_Wait.CheckForAutoAttack_Patch1(Verse.AI.JobDriver_Wait)
+  at Verse.AI.JobDriver_Wait.<MakeNewToils>b__3_0 () [0x00037] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x001df] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+JobDriver threw exception in initAction for pawn autocleaner driver=JobDriver_Wait (toilIndex=0) driver.job=(Wait (Job_25682600))
+System.NullReferenceException: Object reference not set to an instance of an object
+  at AllowTool.PartyHuntHandler.get_WorldSettings () [0x0000b] in <131ad912d0814ce38696f6ecf93156a4>:0 
+  at AllowTool.PartyHuntHandler.DoBehaviorForPawn (Verse.AI.JobDriver_Wait driver) [0x0001e] in <131ad912d0814ce38696f6ecf93156a4>:0 
+  at AllowTool.Patches.JobDriverWait_CheckForAutoAttack_Patch.DoPartyHunting (Verse.AI.JobDriver_Wait __instance) [0x00001] in <131ad912d0814ce38696f6ecf93156a4>:0 
+  at (wrapper dynamic-method) Verse.AI.JobDriver_Wait.Verse.AI.JobDriver_Wait.CheckForAutoAttack_Patch1(Verse.AI.JobDriver_Wait)
+  at Verse.AI.JobDriver_Wait.<MakeNewToils>b__3_0 () [0x00037] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x001df] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+An error occurred while starting an error recover job. We have to stop now to avoid infinite loops. This means that the pawn is now jobless which can cause further bugs. pawn=autocleaner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaned up 110 deprecated records from What the Hack!?
+Cleaned up 179 deprecated records from Giddy-up!
+Orbitabl Trader On/Off Cycle applied.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Found 5 stone defs: BlocksSandstone, BlocksGranite, BlocksLimestone, BlocksSlate, BlocksMarble
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+Sculpture stuff: BlocksMarble | RGBA(0.518, 0.529, 0.518, 1.000) | RGBA(0.518, 0.529, 0.518, 1.000)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 58911.
+Total: 706.341100 ms (FindLiveObjects: 4.552200 ms CreateObjectMapping: 5.875900 ms MarkObjects: 695.641700 ms  DeleteObjects: 0.270100 ms)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
